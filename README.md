@@ -34,7 +34,7 @@ A comprehensive command-line interface (CLI) based **Pharmacy Management System*
 - Uses `gotoXY` for precise cursor control.
 
 ### ScreenShots 
-<p align="center">
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -57,7 +57,7 @@ A comprehensive command-line interface (CLI) based **Pharmacy Management System*
     </td>
   </tr>
 </table>
-</p>
+</div>
 <p align="center">
    <img src = "screenshots/Bill.png" alt ="bill">
 </p>
